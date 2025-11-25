@@ -1,0 +1,47 @@
+@media (max-width: 1400px) {
+    .p30 {
+		padding: calc(20px + (30 - 20) * ((100vw - 380px) / (1400 - 380)));
+	}
+    .p20 {
+		padding: calc(10px + (20 - 10) * ((100vw - 380px) / (1400 - 380)));
+	}
+    .p10 {
+		padding: calc(7px + (10 - 7) * ((100vw - 380px) / (1400 - 380)));
+	}
+
+
+
+
+    * {
+        font-size: calc(18px + (20 - 18) * ((100vw - 380px) / (1400 - 380)));
+    }
+
+    .font-size-5rem {
+        font-size: calc(36px + (80 - 36) * ((100vw - 380px) / (1400 - 380)));
+    }
+
+
+    .fs-1_6rem {
+        font-size: calc(14px + (25.6 - 14) * ((100vw - 380px) / (1400 - 380)));
+    }
+}
+
+
+@media (max-width: 680px) {
+    .block-2 {
+        flex-wrap: wrap;
+    }
+    .block-2 .width-50p {
+        width: 100%;
+    }
+}
+
+
+
+
+@media (max-width: 498px) {
+	
+	
+
+	
+}
