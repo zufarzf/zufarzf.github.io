@@ -1,0 +1,9 @@
+**/.vscode/
+migrations/
+venv/
+env/
+instance/
+/app/all-static/uploads/
+config.py
+**/__pycache__/
+**/*.pyc
